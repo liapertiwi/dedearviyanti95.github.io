@@ -15,6 +15,7 @@ Nim : 11353204648<br>
 Jurusan : Sistem Informasi<br>
 Fakultas : Saintek<br>
 Alamat : Perum Villa Pesona Panam<br>
+
 <img src="/assets/IMG_8113.jpg">
 
 
