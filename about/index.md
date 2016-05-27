@@ -17,5 +17,7 @@ Fakultas : Saintek<br>
 Alamat : Perum Villa Pesona Panam<br>
 
 
-
+##about me
+My name is Dede Dwi Arviyanti,i come form Cikampak. I College on Uin Suska Riau,my major Sistem Informasi,i live in Perumahan Villa Pesona Panam,birth 10 june 1995 ,My hobbies are reading books, novels.
+Thankyou
 
