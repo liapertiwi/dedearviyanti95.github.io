@@ -8,7 +8,8 @@ image:
   feature: sample-image-2.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
----##Biodata
+---
+##Biodata
 Nama : Dede Dwi Arviyanti<br>
 Nim : 11353204648<br>
 Jurusan : Sistem Informasi<br>
