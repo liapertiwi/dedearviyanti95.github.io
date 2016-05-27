@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title:            Ocu Kampar
+title:            De Arviyanti
 locale:           en_US
 #url:              http://localhost:4000
-url:              http://kampar.github.io
+url:              http://dedearviyanti95.github.io
 
 
 # Jekyll configuration
@@ -27,15 +27,15 @@ kramdown:
 
 # Site owner
 owner:
-  name: Muhammad Jazman
+  name: De Arviyanti
   avatar: bio-photo.jpg
   bio: "Describe your self."
   email: 
   disqus-shortname: 
-  twitter: jazma101 #username
-  facebook: deactivate.py #username
+  twitter: #username
+  facebook: #username
   google:
-    plus: kampar #username
+    plus: #username
     analytics: 
     verify: 
     ad-client: 
