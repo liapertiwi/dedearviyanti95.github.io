@@ -16,7 +16,7 @@ Jurusan : Sistem Informasi<br>
 Fakultas : Saintek<br>
 Alamat : Perum Villa Pesona Panam<br>
 
-<img src="/assets/IMG_8118.jpg">
+<img src="/assets/20160214_080255.jpg">
 
 
 
